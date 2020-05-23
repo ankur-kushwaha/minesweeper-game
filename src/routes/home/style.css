@@ -1,0 +1,39 @@
+.home {
+	padding: 20px;
+	min-height: 100%;
+	width: 100%;
+}
+
+.cardHeader {
+  padding: 16px;
+}
+
+.cardBody {
+  padding: 16px;
+}
+
+.box{
+	display: inline-block;
+	width: 21px;
+	height: 21px;
+	border: 1px solid gray;
+	vertical-align: top;
+	font-size: 9px;
+	text-align: center;
+}
+.elevation{
+	display: inline-block;
+	margin:2px;
+}
+
+.red{
+	background-color: red;
+}
+
+.FLAGGED{
+	background-color:yellow;
+}
+
+.GREEN{
+	background-color:green;
+}
